@@ -83,6 +83,3 @@ Cross-validation results:
 2. Hyperparameter tuning for potentially improved performance
 3. Exploration of other machine learning algorithms
 
-## Contact
-
-For any questions, please contact Sid (siddabhinav@gmail.com)
